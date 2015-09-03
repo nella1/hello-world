@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Interesting how hello world has become universal.
